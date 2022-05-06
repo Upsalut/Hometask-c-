@@ -1,0 +1,15 @@
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.csproj.AssemblyReference.cache
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.AssemblyInfoInputs.cache
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.AssemblyInfo.cs
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\bin\Debug\net6.0\Exercise7.exe
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\bin\Debug\net6.0\Exercise7.deps.json
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\bin\Debug\net6.0\Exercise7.runtimeconfig.json
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\bin\Debug\net6.0\Exercise7.dll
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\bin\Debug\net6.0\Exercise7.pdb
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.dll
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\refint\Exercise7.dll
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.pdb
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\Exercise7.genruntimeconfig.cache
+C:\Users\Upper\Desktop\Hometask c#\Exercise7\obj\Debug\net6.0\ref\Exercise7.dll
